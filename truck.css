@@ -1,0 +1,52 @@
+h1 {
+ display: flex;
+ justify-content: center;
+}
+#main-container {
+    display: flex;
+    flex-direction: column;
+    border: 3px solid black;
+    padding: 16px;
+    margin: 16px;
+}
+.input {
+    padding: 4px;
+    margin: 4px;
+}
+label {
+    font-size:24px;
+    display: flex;
+    justify-content: center;
+}
+button {
+    padding: 4px;
+    margin: 8px;
+    width: 80px;
+}
+.btn {
+    display: flex;
+    justify-content: space-evenly;
+}
+#con {
+    border: 3px solid  black ;
+    border-radius: 24px;
+    width: 120px;
+    display: flex;
+    justify-content: center;
+}
+.truck {
+    border: 3px solid  black ;
+    border-radius: 24px;
+    max-width: 300px;
+    display: flex;
+    justify-content: center;
+    margin: 8PX;
+}
+#mini {
+    border: 3px solid  black ;
+    border-radius: 24px;
+    max-width: 300px;
+    display: flex;
+    justify-content: center;
+    margin: 8PX;
+}
